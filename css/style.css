@@ -1,0 +1,315 @@
+body
+{
+	margin: 0;
+}
+.one
+{
+
+margin: 0;
+}
+.container
+{
+
+width: 1200px;
+
+height: 300px;
+
+margin: auto;
+
+padding: 100px 0;
+}
+.heading
+{
+
+text-align: center;
+}
+.content-box
+{
+
+}
+.content
+{
+
+width: 33.33%;
+
+float: left;
+
+text-align: center;
+
+padding: 15px;
+
+box-sizing: border-box;
+}
+.app
+{
+
+padding: 10px;
+
+box-shadow: 4px 4px 10px #00000030;
+
+cursor: pointer;
+transition-duration: .5s;
+}
+.ui-ux
+{
+padding: 10px;
+
+box-shadow: 4px 4px 10px #00000030;
+transition-duration: .5s;
+cursor: pointer;
+
+}
+.wireframing
+{
+padding: 19px 10px;
+transition-duration: .5s;
+box-shadow: 4px 4px 10px #00000030;
+
+cursor: pointer;	
+}
+.im
+{
+
+width: 50px;
+
+height: 50px;
+
+margin: auto;
+
+border-radius: 50%;
+
+padding-top: 15px;
+
+padding-bottom: 0;
+}
+.im img
+{
+	
+width: 50px;
+	
+height: 28px;
+	
+border-radius: 50%;
+	
+box-shadow: 4px 4px 10px #00000033;
+}
+
+h6 {
+    color: #2596c1;
+    padding-top: 10px;
+    font-weight: 900;
+}
+
+h2 {
+    font-weight: 500;
+}
+.con2
+{
+
+width: 80%;
+
+height: 150px;
+
+background: #2e2371;
+
+margin: auto;
+}
+.community
+{
+
+width: 33.33%;
+
+float: left;
+height: 100%;
+
+box-sizing: border-box;
+}
+.com-content
+{text-align: center;text-decoration-color: white;box-sizing: border-box;}
+.image
+{
+
+/* display: inline; */
+
+text-align: center;
+
+padding-top: 20px;
+}
+.community img
+{
+	
+height: 30px;
+	
+border-radius: 50%;
+}
+.two
+{
+	width: 100%;
+	background: #2e2371;
+}
+h5 {
+    color: white;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+.container3
+{
+	width: 1200px;
+
+height: 400px;
+
+margin: auto;
+
+padding: 100px 0 50px 0;
+
+}
+
+.com-content p {
+    font-size: 10px;
+    padding: 0 15px;
+    color: #8597cc;
+}
+.part1 {
+    width: 50%;
+    float: left;
+}
+.con
+{
+
+padding: 10% 0 0 30%;
+}
+.button
+{
+
+background-color: #2353d2;
+
+width: 20%;
+
+padding: 10px;
+
+cursor: pointer;
+
+text-align: center;
+}
+.button h5
+{
+	
+color: #f5ecec;
+	
+margin: 0;
+}
+.button:hover
+{
+	background-color: black;
+
+}
+.con h6
+{
+	margin: 0;
+}
+.con p
+{
+	
+margin-right: 40%;
+	
+font-size: 12px;
+	
+color: #827171;
+}
+.con h1
+{
+	
+font-weight: normal;
+	
+color: #3c2c2c;
+}
+.part2
+{
+
+width: 50%;
+
+float: left;
+
+height: 400px;
+}
+.frst
+{
+	width: 50%;
+	height: 50%;
+	margin-left: 0;
+}
+.pa
+{
+	width: 50%;
+	height: 50%;
+	float: left;
+}
+.imag
+{
+	width: 70%;
+	float: left;
+	text-align: center;
+	padding: 25px;
+	margin: auto;
+}
+.ima
+{
+	width:70%;
+	margin: auto;
+}
+.ima img
+{
+	width: 100%;
+
+
+}
+.pad
+{
+	box-shadow: 4px 4px 10px #0000004a;
+	cursor: pointer;
+	transition-duration: .5s;
+	padding: 20px 10px 10px 10px;
+}
+.pad:hover
+{
+	box-shadow: -4px -4px 10px #0000004a;
+}
+section.four {
+	background-color: #e4e4e4;
+	width: 100%;
+	height: 300px;
+}
+
+.con4
+{
+
+width: 80%;
+
+margin: auto;
+
+padding-top: 50px;
+}
+.four-1
+{
+
+width: 25%;
+
+float: left;
+}
+.four-1-con p
+{
+	cursor: pointer;
+
+}
+.app:hover
+{
+	box-shadow: -4px -4px 10px #00000030;
+}
+.ui-ux:hover
+{
+	box-shadow: -4px -4px 10px #00000030;
+}
+.wireframing:hover
+{
+	box-shadow: -4px -4px 10px #00000030;
+}
